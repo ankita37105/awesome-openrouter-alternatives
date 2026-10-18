@@ -15,11 +15,11 @@ Last checked: June 2026.
 
 > Building AI apps with Claude Code, Codex, or your favorite API client?
 >
-> Try **[Blackmagic AI](https://blackmagic.engineering/?utm_source=github&utm_medium=awesome-list&utm_campaign=openrouter-alternatives&utm_content=cta-text)**, an OpenAI-compatible gateway and cheaper OpenRouter alternative. Use one API key, prepaid credits, and top models while cutting AI model costs by up to 50%.
+> Try **[Hypereal AI](https://hypereal.cloud/?utm_source=github&utm_medium=awesome-list&utm_campaign=openrouter-alternatives&utm_content=cta-text)**, a unified API platform for AI video, image generation, and LLMs. Build with multiple models through one API key, and explore the model catalog to find the right fit for your app.
 >
-> **[Compare model pricing](https://blackmagic.engineering/models?utm_source=github&utm_medium=awesome-list&utm_campaign=openrouter-alternatives&utm_content=cta-pricing)**
+> **[Compare model pricing](https://hypereal.cloud/models?utm_source=github&utm_medium=awesome-list&utm_campaign=openrouter-alternatives&utm_content=cta-pricing)**
 
-[<img width="1490" height="915" alt="Blackmagic AI OpenAI-compatible gateway dashboard" src="https://github.com/user-attachments/assets/af41beba-3fe0-4409-bfd6-03c6617a6ab1" />](https://blackmagic.engineering/?utm_source=github&utm_medium=awesome-list&utm_campaign=openrouter-alternatives&utm_content=cta-image)
+[![Hypereal AI — Video, Image & LLM APIs](https://img.shields.io/badge/Hypereal_AI-Video%2C_Image_%26_LLM_APIs-6366f1?style=for-the-badge)](https://hypereal.cloud/?utm_source=github&utm_medium=awesome-list&utm_campaign=openrouter-alternatives&utm_content=cta-image)
 
 ## What Counts As An OpenRouter Alternative?
 
@@ -41,7 +41,7 @@ This list favors tools that meet at least one of these criteria:
 
 | Project | Type | Best For |
 | --- | --- | --- |
-| [Blackmagic AI](https://blackmagic.engineering/?utm_source=github&utm_medium=awesome-list&utm_campaign=openrouter-alternatives&utm_content=comparison-row) | Hosted prepaid gateway | Claude Code and Codex users who want one key, prepaid credits, and lower model costs |
+| [Hypereal AI](https://hypereal.cloud/?utm_source=github&utm_medium=awesome-list&utm_campaign=openrouter-alternatives&utm_content=comparison-row) | Hosted AI API platform | Developers who want access to LLMs, image generation, and video models through one API key |
 | [Requesty](https://docs.requesty.ai/) | Hosted model router | A broad hosted catalog with caching, analytics, and optimization |
 | [Vercel AI Gateway](https://vercel.com/docs/ai-gateway) | Hosted gateway | Vercel and AI SDK apps that want one endpoint for multiple providers |
 | [Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/) | Hosted control plane | Teams already using Cloudflare for rate limits, cache, logs, retries, and fallback |
@@ -55,19 +55,16 @@ This list favors tools that meet at least one of these criteria:
 
 ## Hosted OpenRouter Alternatives
 
-### Blackmagic AI
+### Hypereal AI
 
-[Blackmagic AI](https://blackmagic.engineering/?utm_source=github&utm_medium=awesome-list&utm_campaign=openrouter-alternatives&utm_content=blackmagic-section)
-is a prepaid AI API gateway for developers who want a simple buying motion: add
-credits, generate an API key, and call an OpenAI-compatible endpoint. It is a
-good fit when the main job is coding-agent usage, predictable spend, and fast
-access to top models without juggling every upstream provider account.
+[Hypereal AI](https://hypereal.cloud/?utm_source=github&utm_medium=awesome-list&utm_campaign=openrouter-alternatives&utm_content=hypereal-section)
+offers access to LLMs, AI image generation, and video models through one API
+platform. Developers can explore the model catalog and pricing before choosing
+the models that fit their application.
 
-Choose Blackmagic AI if you want a commercial OpenRouter alternative focused on
-cost control, API keys, usage logs, prepaid balance, and drop-in compatibility.
-It is especially relevant for Claude Code and Codex workloads because those
-tools can burn through tokens quickly, and prepaid credits make spend easier to
-reason about than scattered provider invoices.
+Choose Hypereal AI if your app combines language, image, or video workflows and
+you want a single place to manage API access. Check the documentation for the
+request format and capabilities of each model before integrating.
 
 ### Requesty
 
@@ -201,9 +198,8 @@ differences.
 
 ## Recommended Shortlist
 
-Start with [Blackmagic AI](https://blackmagic.engineering/?utm_source=github&utm_medium=awesome-list&utm_campaign=openrouter-alternatives&utm_content=shortlist)
-if your priority is a cheaper hosted OpenRouter alternative for Claude Code,
-Codex, and OpenAI-compatible app workloads. Start with LiteLLM or Bifrost if
+Start with [Hypereal AI](https://hypereal.cloud/?utm_source=github&utm_medium=awesome-list&utm_campaign=openrouter-alternatives&utm_content=shortlist)
+if your priority is a hosted platform for LLM, image, and video API workloads. Start with LiteLLM or Bifrost if
 your priority is self-hosted routing. Start with Vercel or Cloudflare if your
 application already lives on that platform. Start with Together, Fireworks, or
 Groq if you only need a fast direct endpoint for a narrower set of models.
